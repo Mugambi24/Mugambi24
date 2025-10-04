@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mugambi Isaiah
 
-**🔬 Molecular Biologist | 🧬 Bioinformatician | 🤖 AI & ML Enthusiast**  
+**🔬 Molecular Biologist | 🧬 Bioinformatician | 🤖 AI, ML & DL Enthusiast**  
 
 MSc student in **Molecular Biology & Bioinformatics** | Passionate about **genomics, multi-omics, and variant effect prediction**  
 
