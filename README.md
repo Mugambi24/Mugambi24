@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Mugambi Isaiah
 
-<!--
-**Mugambi24/Mugambi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔬 Molecular Biologist | 🧬 Bioinformatician | 🤖 AI & ML Enthusiast**  
 
-Here are some ideas to get you started:
+MSc student in **Molecular Biology & Bioinformatics** | Passionate about **genomics, multi-omics, and variant effect prediction**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- **Programming:** Python, R, Bash, Git, Linux  
+- **Bioinformatics:** RNA-seq, VCF/FASTA analysis, Variant annotation  
+- **AI/ML/DL:** scikit-learn, TensorFlow, PyTorch  
+- **Visualization:** Matplotlib, Seaborn, Jupyter  
+
+---
+
+### 📌 Projects
+- 🔎 **Variant Effect Prediction in African Genomes**  
+- 🧪 **Multi-omics Analysis Pipelines**  
+- 🤖 **AI for Biology: Protein function & drug repurposing**  
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://www.linkedin.com/in/mugambi-isaiah-230593150/)
+[![Twitter](https://x.com/IMugambiKe)
+[![Email](isaiahmugambi30@gmail.com)
+
+---
+
+⭐ *“Decoding life’s data at the intersection of biology and AI.”*  
+
