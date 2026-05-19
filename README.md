@@ -8,7 +8,7 @@ MSc student in **Molecular Biology & Bioinformatics** | Passionate about **genom
 
 ### 🛠️ Skills
 - **Programming:** Python, R, Bash, Git, Linux  
-- **Bioinformatics:** RNA-seq, VCF/FASTA analysis, Variant annotation  
+- **Bioinformatics:** RNA-seq, VCF/FASTA analysis, Variant annotation, InterProScan, BLAST, UniProt, MEGA, AlphaFold, and PyMOL, STAR, SPAdes, Bowtie2, BWA   
 - **AI/ML/DL:** scikit-learn, TensorFlow, PyTorch  
 - **Visualization:** Matplotlib, Seaborn, Jupyter  
 
