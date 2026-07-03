@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mugambi Isaiah
+# Hi, I’m Mugambi Isaiah
 
 **🔬 Molecular Biologist | 🧬 Bioinformatician | 🤖 AI, ML & DL Enthusiast**  
 
