@@ -2,7 +2,7 @@
 
 **🔬 Molecular Biologist | 🧬 Bioinformatician | 🤖 AI, ML & DL Enthusiast**  
 
-MSc student in **Molecular Biology & Bioinformatics** | Passionate about **genomics, multi-omics, and variant effect prediction**  
+MSc in **Molecular Biology & Bioinformatics** | Passionate about **genomics, multi-omics, and variant effect prediction**  
 
 ---
 
