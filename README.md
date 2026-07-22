@@ -15,6 +15,7 @@ MSc in **Molecular Biology & Bioinformatics** | Passionate about **genomics, mul
 ---
 
 ### 📌 Projects
+- 🔎 **The SARS-CoV-2 Project**
 - 🔎 **Variant Effect Prediction in African Genomes**  
 - 🧪 **Multi-omics Analysis Pipelines**  
 - 🤖 **AI for Biology: Protein function & drug repurposing**  
